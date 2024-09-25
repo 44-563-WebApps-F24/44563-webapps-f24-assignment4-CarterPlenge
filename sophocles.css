@@ -1,0 +1,41 @@
+.speech {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.direction {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #ffeeee;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.direction:hover {
+    background-color: #eeeeee;
+    color: #333;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.oed {
+    color: #2b6cb0;
+}
+
+.ant {
+    color: #9b2c2c;
+}
+
+.ismene {
+    color: #2f855a;
+}
+
